@@ -1,14 +1,11 @@
-[![MasterHead](https://media.tenor.com/MvrzaYqQCQ8AAAAC/cool-dinosaur.gif)]()
+[![MasterHead](https://github.com/vickyraut/vickyraut/blob/main/banner.gif)]()
 <h1 align="center">Hi 👋, I'm VICKY RAUT🥷</h1>
 <h3 align="center">Technophile | Geek | Nerd | Developer | Infuencer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vickyraut/count.svg" />
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/vickyraut/vickyraut/blob/main/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/vicky12cr" target="blank"><img src="https://img.shields.io/twitter/follow/vicky12cr?logo=twitter&style=for-the-badge" alt="Vicky Raut" /></a> </p>
 
