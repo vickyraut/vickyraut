@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vickyraut&&theme=tokyonight" alt="vickyraut" /></p>
 
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=VickyRaut&&limit=5&&theme=tokyonight&&combine_all_yearly_contributions=true" alt="vickyraut" /></p>
+<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=vickyraut&&limit=5&&theme=tokyonight&&combine_all_yearly_contributions=true" alt="vickyraut" /></p>
 
 <h3 align="centre">🏆 Github Trophis:</h3>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=VickyRaut&&theme=tokyonight&&no-frame=true&&no-bg=false&&margin-w=4" alt="vickyraut" /></p>
