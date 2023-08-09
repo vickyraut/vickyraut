@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://github.com/vickyraut/vickyraut/blob/main/banner.gif">
+<img align="center" alt="Coding" width="1000" src="https://github.com/vickyraut/vickyraut/blob/main/banner.gif">
 <h1 align="center">Hi 👋, I'm VICKY RAUT🥷</h1>
 <h3 align="center">Technophile | Geek | Nerd | Developer | Infuencer</h3>
 <p align="center"> 
