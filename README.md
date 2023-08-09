@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/vickyraut/vickyraut/blob/main/banner.gif)]()
+<img align="center" alt="Coding" width="400" src="https://github.com/vickyraut/vickyraut/blob/main/banner.gif">
 <h1 align="center">Hi 👋, I'm VICKY RAUT🥷</h1>
 <h3 align="center">Technophile | Geek | Nerd | Developer | Infuencer</h3>
 <p align="center"> 
@@ -11,17 +11,15 @@
 
 - 🔭 I’m currently working on **Android**
 
-- 🌱 I’m currently learning **DSA, Linux**
-
 - 👯 I’m looking to collaborate on **Native Android Development**
 
-- 🤝 I’m looking for help with **staring Open-source**
+- 🤝 I’m looking for help with **Starting Open-source**
 
 - 💬 Ask me about **Java, Android**
 
 - 📫 How to reach me **vraut4143@gmail.com**
 
-- ⚡ Fun fact **I have an eternal love-hate relationship Coding.**
+- ⚡ Fun fact **I have an eternal love-hate relationship with Coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
