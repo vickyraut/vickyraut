@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://github.com/vickyraut/vickyraut/blob/main/banner.gif">
+<img align="center" alt="Coding" width="1000" src="https://github.com/vickyraut/vickyraut/blob/main/resources/banner.gif">
 
 <h1 align="center">Hi 👋, I'm VICKY RAUT🥷</h1>
 
@@ -11,9 +11,7 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
   <img src="https://profile-counter.glitch.me/vickyraut/count.svg" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/vickyraut/vickyraut/blob/main/programmer.gif">
-
-<p align="left"> <a href="https://twitter.com/vicky12cr" target="blank"><img src="https://img.shields.io/twitter/follow/vicky12cr?logo=twitter&style=for-the-badge" alt="Vicky Raut" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/vickyraut/vickyraut/blob/main/resources/Iron%20man.gif">
 
 <div align="left">
   
@@ -75,39 +73,22 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=vickyraut&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-vickyraut.vercel.app/api?username=vickyraut&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=vickyraut&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-vickyraut.vercel.app/api/top-langs/?username=vickyraut&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyraut&langs_count=12&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
-<hr/>
+<hr/> 
+
+<h2 align="center">🏆 Github Trophis 🏆</h2>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=VickyRaut&&theme=tokyonight&&no-frame=true&&no-bg=false&&margin-w=4" alt="vickyraut" /></p>
+
+<br/><br/>
+<hr/> 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Nice to meet you!+✌️">
 </h3>
 
 <br/>
-
-
-
-
-
-<h3 align="left">Intrested in:</h3>
-
-- :robot: **Android** 
-- :octocat: **Open source**
-
-<h3 align="centre">My Github Streak:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickyraut&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vickyraut" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickyraut&show_icons=true&locale=en&theme=tokyonight" alt="vickyraut" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vickyraut&&theme=tokyonight" alt="vickyraut" /></p>
-
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=vickyraut&&limit=5&&theme=tokyonight&&combine_all_yearly_contributions=true" alt="vickyraut" /></p>
-
-<h3 align="centre">🏆 Github Trophis:</h3>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=VickyRaut&&theme=tokyonight&&no-frame=true&&no-bg=false&&margin-w=4" alt="vickyraut" /></p>
-
-
