@@ -3,13 +3,10 @@
 <h1 align="center">Hi 👋, I'm VICKY RAUT🥷</h1>
 
 <a 
-href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=4000&pause=100&color=F7F7F7&center=true&width=1000&height=70&lines=An+Young+tech+explorer+from+India+%F0%9F%87%AE%F0%9F%87%B3.;Mastering+Native+Android%2C+Web%2C+and+AI%2FML." alt="Typing SVG" />
+href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=4000&pause=100&color=F7F7F7&center=true&vCenter=true&width=1000&height=65&lines=An+Young+tech+explorer+from+India+%F0%9F%87%AE%F0%9F%87%B3.;Mastering+Native+Android%2C+Web%2C+and+AI%2FML." alt="Typing SVG" />
 </a>
-  
-<p align="center">  
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vickyraut/count.svg" />
-</p>
+
+<br/>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/vickyraut/vickyraut/blob/main/resources/Iron%20man.gif">
 
@@ -29,7 +26,7 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
 
 </div>
 
-<br/>
+<br/><br/><br/>
 
 <h2 align="center">📨 Contact me 📨</h2>
 
@@ -82,13 +79,20 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
 <hr/> 
 
 <h2 align="center">🏆 Github Trophis 🏆</h2>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=VickyRaut&&theme=tokyonight&&no-frame=true&&no-bg=false&&margin-w=4" alt="vickyraut" /></p>
+<div align=center>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=VickyRaut&&theme=tokyonight&&no-frame=true&&no-bg=false&&margin-w=4" alt="vickyraut" />
+</div>
 
 <br/><br/>
 <hr/> 
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Nice to meet you!+✌️">
-</h3>
-
+  
 <br/>
+
+<p align="center">  
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vickyraut/count.svg" />
+</p>
+
+<a 
+  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=3000&pause=100&center=true&vCenter=true&width=1000&height=70&lines=Nice+to+meet+you!%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  </a>
