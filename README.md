@@ -15,17 +15,60 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
 
 <p align="left"> <a href="https://twitter.com/vicky12cr" target="blank"><img src="https://img.shields.io/twitter/follow/vicky12cr?logo=twitter&style=for-the-badge" alt="Vicky Raut" /></a> </p>
 
+<div align="left">
+  
 - 🔭 I’m currently working on **Android**
+
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Native Android Development**
 
-- 🤝 I’m looking for help with **Starting Open-source**
+- 🤝 I’m looking for help with **Starting AI/ML**
 
-- 💬 Ask me about **Java, Android**
-
-- 📫 How to reach me **vraut4143@gmail.com**
-
+- 💬 Ask me about **Java, Android** [here](https://github.com/vickyraut/vickyraut/issues)
+ 
 - ⚡ Fun fact **I have an eternal love-hate relationship with Coding.**
+
+</div>
+
+<br/>
+
+<h2 align="center">📨 Contact me 📨</h2>
+
+<div align="center"> 
+  <a href="mailto:vraut12cr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/vicky12cr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://linktr.ee/vickyraut">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+</div>
+
+ <hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,androidstudio" />
+  </a>
+</p>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vickyraut/vickyraut/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 <h3 align="left">Intrested in:</h3>
 
