@@ -61,7 +61,7 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vickyraut/vickyraut/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
@@ -71,8 +71,9 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=vickyraut&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=vickyraut&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <br/>
+  
+  <br/><br/>
+
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyraut&langs_count=12&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
@@ -95,5 +96,6 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
 </p>
 
 <a 
-  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=1000&height=70&lines=Nice+to+meet+you!%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+
+  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=3000&pause=100&center=true&vCenter=true&width=1000&height=50&lines=Nice+to+meet+you!%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
   </a>
