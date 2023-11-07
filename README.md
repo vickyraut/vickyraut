@@ -83,12 +83,12 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=VickyRaut&&theme=tokyonight&&no-frame=true&&no-bg=false&&margin-w=4" alt="vickyraut" />
 </div>
 
-[![An image of @vickyraut's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vickyraut)](https://holopin.io/@vickyraut)
-
 <br/><br/>
 <hr/> 
   
 <br/>
+
+[![An image of @vickyraut's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vickyraut)](https://holopin.io/@vickyraut)
 
 <p align="center">  
   Visitor count<br>
