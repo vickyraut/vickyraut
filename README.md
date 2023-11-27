@@ -95,9 +95,6 @@ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com
   <img src="https://profile-counter.glitch.me/vickyraut/count.svg" />
 </p>
 
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
-
 <a 
   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=3000&pause=100&center=true&vCenter=true&width=1000&height=50&lines=Nice+to+meet+you!%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
   </a>
